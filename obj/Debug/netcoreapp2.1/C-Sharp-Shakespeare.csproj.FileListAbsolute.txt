@@ -1,0 +1,11 @@
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/bin/Debug/netcoreapp2.1/C-Sharp-Shakespeare.deps.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/bin/Debug/netcoreapp2.1/C-Sharp-Shakespeare.runtimeconfig.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/bin/Debug/netcoreapp2.1/C-Sharp-Shakespeare.runtimeconfig.dev.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/bin/Debug/netcoreapp2.1/C-Sharp-Shakespeare.dll
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/bin/Debug/netcoreapp2.1/C-Sharp-Shakespeare.pdb
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.csprojAssemblyReference.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.csproj.CoreCompileInputs.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.AssemblyInfoInputs.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.AssemblyInfo.cs
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.dll
+/Users/carolynn/dev/C-Sharp/C-Sharp-Shakespeare/obj/Debug/netcoreapp2.1/C-Sharp-Shakespeare.pdb
