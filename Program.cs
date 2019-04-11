@@ -7,15 +7,16 @@ namespace C_Sharp_Shakespeare
         static void Main(string[] args)
         {
             RandomInsultGenerator generator = new RandomInsultGenerator();
-            string repeat = "";
-            do{
-            Console.WriteLine("If you would like to create your own random Shakespearean insult, type random. If you would" +
-            " like a classic Shakespearean insult, type classic");
-            string answer = Console.ReadLine();
-            Console.WriteLine("\n" + generator.pickRandomOrClassic(answer));
-            Console.WriteLine("\nWould you like to go again?  Type y for yes, or any other key to exit.");
-            repeat = Console.ReadLine();
-            } while(repeat == "y");
+            Console.WriteLine("Welcome to the Shakespearean Insult Generator! \nFinding it difficult to adequately express your " + 
+            "low opinion of someone?  What something creative on hand for the next time a family member annoys you? " + 
+            " \nGet help from the Master of Insults, Shakespeare himself!\n");
+            generator.Run();
+            // string repeat = "";
+            // do{
+            // Console.WriteLine(generator.Start());
+            // Console.WriteLine("\nWould you like to go again?  Type y for yes, or any other key to exit.");
+            // repeat = Console.ReadLine();
+            // } while(repeat == "y");
         }
     }
 }
